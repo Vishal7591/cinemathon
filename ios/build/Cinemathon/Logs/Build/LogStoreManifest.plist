@@ -35,35 +35,6 @@
 			<key>uniqueIdentifier</key>
 			<string>9B93366D-3FBC-4BCA-8E00-31948A427F43</string>
 		</dict>
-		<key>A01FC9D4-EE2C-4764-80B2-29363439F6E8</key>
-		<dict>
-			<key>className</key>
-			<string>IDECommandLineBuildLog</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A01FC9D4-EE2C-4764-80B2-29363439F6E8.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>Cinemathon project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Cinemathon</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Building project Cinemathon with scheme Cinemathon and configuration Debug</string>
-			<key>timeStartedRecording</key>
-			<real>581097952.65392303</real>
-			<key>timeStoppedRecording</key>
-			<real>581097962.84163797</real>
-			<key>title</key>
-			<string>Building project Cinemathon with scheme Cinemathon and configuration Debug</string>
-			<key>uniqueIdentifier</key>
-			<string>A01FC9D4-EE2C-4764-80B2-29363439F6E8</string>
-		</dict>
 	</dict>
 </dict>
 </plist>

@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>application-identifier</key>
-	<string>R889335VAX.org.reactjs.native.example.Cinemathon</string>
+	<string>685WQT57B9.com.movies.cinemathon</string>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>R889335VAX.org.reactjs.native.example.Cinemathon</string>
+		<string>685WQT57B9.com.movies.cinemathon</string>
 	</array>
 </dict>
 </plist>
