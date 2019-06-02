@@ -1,0 +1,4 @@
+#Sun Jun 02 12:47:42 IST 2019
+base.0=/Users/c-vishal.saxena/Projects/Cinemathon/android/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

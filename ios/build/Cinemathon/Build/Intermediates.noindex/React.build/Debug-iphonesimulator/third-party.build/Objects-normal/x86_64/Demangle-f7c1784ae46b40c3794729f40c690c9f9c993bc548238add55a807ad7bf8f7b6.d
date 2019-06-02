@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.cpp \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/react-native/third-party/folly-2018.10.22.00/folly/FBString.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/Hash.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV1.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV2.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/Malloc.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/detail/MallocImpl.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/react-native/third-party/folly-2018.10.22.00/folly/detail/Demangle.h

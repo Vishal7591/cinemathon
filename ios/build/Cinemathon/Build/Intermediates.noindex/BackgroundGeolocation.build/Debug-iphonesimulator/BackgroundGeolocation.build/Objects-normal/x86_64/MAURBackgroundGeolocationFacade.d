@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURBackgroundGeolocationFacade.m \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURBackgroundGeolocationFacade.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURProviderDelegate.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURLocation.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURActivity.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURConfig.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURPostLocationTask.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURSQLiteConfigurationDAO.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURSQLiteLocationDAO.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURBackgroundTaskManager.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURLogging.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/CocoaLumberjack.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/FMDBLogger.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURLogReader.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURLocationManager.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURActivityLocationProvider.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURAbstractLocationProvider.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURDistanceFilterLocationProvider.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURRawLocationProvider.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURUncaughtExceptionLogger.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/INTULocationManager/INTULocationManager.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/INTULocationManager/INTULocationRequestDefines.h

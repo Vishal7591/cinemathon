@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/ios/RCTBackgroundGeolocation/RCTBackgroundGeolocation.m \
+  RCTBackgroundGeolocation/RCTBackgroundGeolocation.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/ios/build/Cinemathon/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/ios/build/Cinemathon/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  common/BackgroundGeolocation/MAURProviderDelegate.h \
+  common/BackgroundGeolocation/MAURLocation.h \
+  common/BackgroundGeolocation/MAURActivity.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/ios/build/Cinemathon/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/ios/build/Cinemathon/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/ios/build/Cinemathon/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/ios/build/Cinemathon/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/ios/build/Cinemathon/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/ios/build/Cinemathon/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/ios/build/Cinemathon/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/ios/build/Cinemathon/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/c-vishal.saxena/Projects/Cinemathon/ios/build/Cinemathon/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  common/BackgroundGeolocation/MAURConfig.h \
+  common/BackgroundGeolocation/MAURBackgroundGeolocationFacade.h \
+  common/BackgroundGeolocation/MAURBackgroundTaskManager.h
