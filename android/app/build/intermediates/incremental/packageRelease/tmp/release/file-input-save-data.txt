@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Jun 02 12:56:47 IST 2019
+#Sun Jun 02 16:00:06 IST 2019
 60.set=NATIVE_RESOURCE
 52.set=NATIVE_RESOURCE
 53.base=/Users/c-vishal.saxena/Projects/Cinemathon/android/app/build/intermediates/transforms/mergeJniLibs/release/0

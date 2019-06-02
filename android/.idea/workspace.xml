@@ -9,7 +9,329 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c6a1e26-f2de-42c8-ab23-a50ed9db89b0" name="Default Changelist" comment="" />
+    <list default="true" id="0c6a1e26-f2de-42c8-ab23-a50ed9db89b0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinemathon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Cinemathon.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/bundle_manifest/release/processReleaseManifest/bundle-manifest/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/bundle_manifest/release/processReleaseManifest/bundle-manifest/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageRelease/tmp/release/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageRelease/tmp/release/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageRelease/tmp/release/file-input-save-data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageRelease/tmp/release/file-input-save-data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageRelease/tmp/release/zip-cache/REzIP7pgPGA0d2hLaVtUEiuuPd0=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageRelease/tmp/release/zip-cache/REzIP7pgPGA0d2hLaVtUEiuuPd0=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant_app_manifest/debug/processDebugManifest/instant-app-manifest/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/instant_app_manifest/debug/processDebugManifest/instant-app-manifest/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant_app_manifest/release/processReleaseManifest/instant-app-manifest/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/instant_app_manifest/release/processReleaseManifest/instant-app-manifest/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/release/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/release/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/processed_res/release/processReleaseResources/out/resources-release.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/processed_res/release/processReleaseResources/out/resources-release.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/reports/lint-results-release-fatal.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/reports/lint-results-release-fatal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/release/Cinemathon.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Cinemathon.xcodeproj/project.xcworkspace/xcuserdata/c-vishal.saxena.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Cinemathon.xcodeproj/project.xcworkspace/xcuserdata/c-vishal.saxena.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/build/Cinemathon/Logs/Build/A01FC9D4-EE2C-4764-80B2-29363439F6E8.xcactivitylog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/CHANGES.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/CHANGES_zh-Hans.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/CONTRIBUTORS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/DISTANCE_FILTER_PROVIDER.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ISSUE_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/PROVIDERS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/CONTRIBUTORS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/VERSIONS.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/androidTest/java/com/marianhello/bgloc/BackgroundGeolocationFacadeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/androidTest/java/com/marianhello/bgloc/BatchManagerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/androidTest/java/com/marianhello/bgloc/ConfigTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/androidTest/java/com/marianhello/bgloc/ContentProviderLocationDAOTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/androidTest/java/com/marianhello/bgloc/DBLogReaderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/androidTest/java/com/marianhello/bgloc/LocationContentProviderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/androidTest/java/com/marianhello/bgloc/LocationServiceProxyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/androidTest/java/com/marianhello/bgloc/LocationServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/androidTest/java/com/marianhello/bgloc/SQLiteConfigurationDAOTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/androidTest/java/com/marianhello/bgloc/SQLiteLocationDAOTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/androidTest/java/com/marianhello/bgloc/SQLiteLocationDAOThreadTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/androidTest/java/com/marianhello/bgloc/SQLiteOpenHelperTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/androidTest/java/com/marianhello/bgloc/TestPluginDelegate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/androidTest/java/com/marianhello/bgloc/TestResourceResolver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/androidTest/java/com/marianhello/bgloc/provider/MockLocationProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/androidTest/java/com/marianhello/bgloc/provider/TestLocationProviderFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/androidTest/java/com/marianhello/bgloc/sqlite/SQLiteOpenHelper10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/androidTest/java/com/marianhello/bgloc/test/LocationProviderTestCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/androidTest/java/com/marianhello/bgloc/test/TestConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/evgenii/jsevaluator/HandlerWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/evgenii/jsevaluator/JavaScriptInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/evgenii/jsevaluator/JsEvaluator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/evgenii/jsevaluator/JsFunctionCallFormatter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/evgenii/jsevaluator/WebViewWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/evgenii/jsevaluator/interfaces/CallJavaResultInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/evgenii/jsevaluator/interfaces/HandlerWrapperInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/evgenii/jsevaluator/interfaces/JsCallback.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/evgenii/jsevaluator/interfaces/JsEvaluatorInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/evgenii/jsevaluator/interfaces/WebViewWrapperInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/BackgroundGeolocationFacade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/ConnectivityListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/HttpPostService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/LocationManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/PluginDelegate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/PluginException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/PostLocationTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/ResourceResolver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/data/AbstractLocationTemplate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/data/ArrayListLocationTemplate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/data/BackgroundActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/data/BackgroundLocation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/data/ConfigurationDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/data/DAOFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/data/HashMapLocationTemplate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/data/LocationDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/data/LocationTemplate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/data/LocationTemplateFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/data/provider/ContentProviderLocationDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/data/provider/LocationContentProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/data/sqlite/SQLiteConfigurationContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/data/sqlite/SQLiteConfigurationDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/data/sqlite/SQLiteLocationContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/data/sqlite/SQLiteLocationDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/data/sqlite/SQLiteOpenHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/headless/ActivityTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/headless/HeadlessTaskRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/headless/LocationTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/headless/StationaryTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/headless/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/provider/AbstractLocationProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/provider/ActivityRecognitionLocationProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/provider/LocationProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/provider/LocationProviderFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/provider/ProviderDelegate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/provider/RawLocationProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/service/LocationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/service/LocationServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/service/LocationServiceInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/service/LocationServiceInfoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/service/LocationServiceIntentBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/service/LocationServiceProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/service/LocationTransform.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/sync/AccountHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/sync/Authenticator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/sync/AuthenticatorService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/sync/BatchManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/bgloc/sync/SyncService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/logging/DBLogReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/logging/LogEntry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/logging/LoggerManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/logging/UncaughtExceptionLogger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/utils/CloneHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/utils/Convert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/utils/TextUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/marianhello/utils/Tone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/com/tenforwardconsulting/bgloc/DistanceFilterLocationProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/org/apache/commons/io/Charsets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/org/apache/commons/io/input/ReversedLinesFileReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/org/chromium/content/browser/ThreadUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/ru/andremoniy/sqlbuilder/SqlExpression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/ru/andremoniy/sqlbuilder/SqlSelectStatement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/ru/andremoniy/sqlbuilder/SqlStatement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/java/ru/andremoniy/utils/TextUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/res/xml/authenticator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/main/res/xml/syncadapter.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/oreo/java/com/marianhello/bgloc/BootCompletedReceiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/oreo/java/com/marianhello/bgloc/NotificationHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/oreo/java/com/marianhello/bgloc/sync/SyncAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/preoreo/java/com/marianhello/bgloc/BootCompletedReceiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/preoreo/java/com/marianhello/bgloc/NotificationHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/preoreo/java/com/marianhello/bgloc/sync/SyncAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/test/java/com/marianhello/backgroundgeolocation/ArrayListLocationTemplateTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/test/java/com/marianhello/backgroundgeolocation/BackgroundLocationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/test/java/com/marianhello/backgroundgeolocation/ConfigTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/test/java/com/marianhello/backgroundgeolocation/DBLogReaderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/test/java/com/marianhello/backgroundgeolocation/HashMapLocationTemplateTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/test/java/com/marianhello/backgroundgeolocation/HttpPostServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/test/java/com/marianhello/backgroundgeolocation/LocationTemplateFactoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/test/java/com/marianhello/backgroundgeolocation/PostLocationTaskTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/common/src/test/java/com/marianhello/backgroundgeolocation/TestHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/lib/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/lib/src/androidTest/java/com/marianhello/bgloc/react/ConfigMapperTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/lib/src/main/java/com/iodine/start/ArrayUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/lib/src/main/java/com/iodine/start/MapUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/lib/src/main/java/com/marianhello/bgloc/react/BackgroundGeolocationModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/lib/src/main/java/com/marianhello/bgloc/react/BackgroundGeolocationPackage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/lib/src/main/java/com/marianhello/bgloc/react/ConfigMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/lib/src/main/java/com/marianhello/bgloc/react/data/LocationMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/lib/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/lib/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/lib/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/lib/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/lib/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/lib/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/lib/src/main/res/xml/authenticator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/lib/src/main/res/xml/syncadapter.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/lib/src/test/java/com/marianhello/bgloc/react/ConfigMapperTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/RCTBackgroundGeolocation.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/RCTBackgroundGeolocation/RCTBackgroundGeolocation.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/RCTBackgroundGeolocation/RCTBackgroundGeolocation.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/CocoaLumberjack.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/CocoaLumberjack.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/FMDB.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/FMDB.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/FMDBLogger.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/FMDBLogger.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/INTULocationManager/INTUHeadingRequest.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/INTULocationManager/INTUHeadingRequest.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/INTULocationManager/INTULocationManager+Internal.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/INTULocationManager/INTULocationManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/INTULocationManager/INTULocationManager.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/INTULocationManager/INTULocationRequest.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/INTULocationManager/INTULocationRequest.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/INTULocationManager/INTULocationRequestDefines.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/INTULocationManager/INTURequestIDGenerator.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/INTULocationManager/INTURequestIDGenerator.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURAbstractLocationProvider.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURAbstractLocationProvider.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURActivity.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURActivity.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURActivityLocationProvider.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURActivityLocationProvider.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURBackgroundGeolocationFacade.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURBackgroundGeolocationFacade.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURBackgroundSync.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURBackgroundSync.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURBackgroundTaskManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURBackgroundTaskManager.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURConfig.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURConfig.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURConfigurationContract.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURConfigurationContract.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURDistanceFilterLocationProvider.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURDistanceFilterLocationProvider.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURGeolocationOpenHelper.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURGeolocationOpenHelper.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURLocation.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURLocation.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURLocationContract.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURLocationContract.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURLocationManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURLocationManager.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURLogReader.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURLogReader.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURLogging.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURPostLocationTask.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURPostLocationTask.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURProviderDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURRawLocationProvider.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURRawLocationProvider.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURSQLiteConfigurationDAO.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURSQLiteConfigurationDAO.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURSQLiteHelper.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURSQLiteHelper.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURSQLiteLocationDAO.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURSQLiteLocationDAO.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURSQLiteOpenHelper.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURSQLiteOpenHelper.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURUncaughtExceptionLogger.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/MAURUncaughtExceptionLogger.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/Reachability.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/Reachability.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/SOMotionDetector/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/SOMotionDetector/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/SOMotionDetector/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/SOMotionDetector/SOLocationManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/SOMotionDetector/SOLocationManager.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/SOMotionDetector/SOMotionActivity.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/SOMotionDetector/SOMotionActivity.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/SOMotionDetector/SOMotionDetector.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/SOMotionDetector/SOMotionDetector.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/SOMotionDetector/SOStepDetector.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/SOMotionDetector/SOStepDetector.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/SQLQueryBuilder/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/SQLQueryBuilder/ext/NSString+ZIMString.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/SQLQueryBuilder/ext/NSString+ZIMString.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/SQLQueryBuilder/sql/ZIMSqlDataManipulationCommand.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/SQLQueryBuilder/sql/ZIMSqlExpression.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/SQLQueryBuilder/sql/ZIMSqlExpression.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/SQLQueryBuilder/sql/ZIMSqlSelectStatement.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/SQLQueryBuilder/sql/ZIMSqlSelectStatement.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocation/SQLQueryBuilder/sql/ZIMSqlStatement.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocationTests/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocationTests/MAURBackgroundLocationTest.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocationTests/MAURConfigTest.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocationTests/MAURGeolocationOpenHelperTest.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocationTests/MAURLocationTest.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocationTests/MAURLocationUploaderTest.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocationTests/MAURLogReaderTest.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocationTests/MAURSQLiteConfigurationDAOTest.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocationTests/MAURSQLiteHelperTest.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocationTests/MAURSQLiteLocationDAOTests.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocationTests/MAURSQLiteLocationDAOThreadTest.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/BackgroundGeolocationTests/MAURSQLiteOpenHelperTest.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/CONTRIBUTORS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/common/scripts/xcode-refactor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/npm_download.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/ios/pkgversion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/scripts/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/scripts/google_cloud.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/scripts/isInstalled.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/scripts/npm_deprecate.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/scripts/postlink.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@mauron85/react-native-background-geolocation/scripts/postunlink.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/aapt_friendly_merged_manifests/release/processReleaseManifest/aapt/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/aapt_friendly_merged_manifests/release/processReleaseManifest/aapt/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/compile_only_not_namespaced_r_class_jar/release/generateReleaseRFile/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/compile_only_not_namespaced_r_class_jar/release/generateReleaseRFile/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/aapt_friendly_merged_manifests/release/processReleaseManifest/aapt/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/aapt_friendly_merged_manifests/release/processReleaseManifest/aapt/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/compile_only_not_namespaced_r_class_jar/release/generateReleaseRFile/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/compile_only_not_namespaced_r_class_jar/release/generateReleaseRFile/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/intermediates/aapt_friendly_merged_manifests/release/processReleaseManifest/aapt/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/intermediates/aapt_friendly_merged_manifests/release/processReleaseManifest/aapt/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/intermediates/compile_only_not_namespaced_r_class_jar/release/generateReleaseRFile/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/intermediates/compile_only_not_namespaced_r_class_jar/release/generateReleaseRFile/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +355,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/movies/cinemathon/MainApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            <state relative-caret-position="296">
+              <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -45,7 +367,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1500">
+            <state relative-caret-position="-337">
               <caret line="100" column="44" selection-start-line="100" selection-start-column="44" selection-end-line="100" selection-end-column="44" />
             </state>
           </provider>
@@ -56,26 +378,21 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+            <state relative-caret-position="90">
+              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider editor-type-id="android-manifest" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="34" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="34" />
-              <folding>
-                <element signature="e#526#544#0" expanded="true" />
-                <element signature="e#994#1012#0" expanded="true" />
-                <element signature="e#1314#1332#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="480">
+              <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -83,7 +400,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/movies/cinemathon/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
+            <state relative-caret-position="450">
               <caret line="32" column="48" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -109,6 +426,9 @@
     <option name="REMEMBER_PASSWORDS" value="true" />
     <option name="BUILD_TARGET_KEY" value="apk" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -117,10 +437,10 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/movies/cinemathon/MainApplication.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/movies/cinemathon/SplashActivity.java" />
         <option value="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/movies/cinemathon/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/build.gradle" />
       </list>
     </option>
   </component>
@@ -128,12 +448,13 @@
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -141,11 +462,15 @@
               <item name="Cinemathon" type="b2602c69:ProjectViewProjectNode" />
               <item name="android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
+            <path>
+              <item name="Cinemathon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="common" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -285,9 +610,9 @@
       <window_info anchor="bottom" id="TODO" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" />
       <window_info anchor="bottom" id="Terminal" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.11308562" side_tool="true" weight="0.42328766" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.10904685" side_tool="true" weight="0.3410959" />
       <window_info anchor="bottom" id="Version Control" order="6" />
-      <window_info active="true" anchor="bottom" id="Build" order="7" sideWeight="0.8869144" visible="true" weight="0.3410959" />
+      <window_info active="true" anchor="bottom" id="Build" order="7" sideWeight="0.8909531" visible="true" weight="0.3410959" />
       <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Find" order="9" sideWeight="0.49757674" weight="0.32876712" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
@@ -325,36 +650,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/movies/cinemathon/MainApplication.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1500">
-          <caret line="100" column="44" selection-start-line="100" selection-start-column="44" selection-end-line="100" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+        <state relative-caret-position="480">
+          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/movies/cinemathon/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
+        <state relative-caret-position="450">
           <caret line="32" column="48" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -369,16 +675,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/movies/cinemathon/MainApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="34" />
+        <state relative-caret-position="296">
+          <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
           <folding>
-            <element signature="e#526#544#0" expanded="true" />
-            <element signature="e#994#1012#0" expanded="true" />
-            <element signature="e#1314#1332#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-337">
+          <caret line="100" column="44" selection-start-line="100" selection-start-column="44" selection-end-line="100" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
         </state>
       </provider>
     </entry>
