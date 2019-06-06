@@ -3,7 +3,8 @@ import PropTypes from "prop-types";
 import { bindActionCreators } from "redux";
 import { connect } from "react-redux";
 import * as config from "./../constants/config";
-// import BackgroundGeolocation from "@mauron85/react-native-background-geolocation";
+import AntDesign from "react-native-vector-icons/AntDesign";
+import BackgroundGeolocation from "@mauron85/react-native-background-geolocation";
 import {
   genericStyles,
   likeIcon,
@@ -20,10 +21,12 @@ import {
   TouchableOpacity,
   Image,
   ScrollView,
+  Alert,
   ActivityIndicator,
   RefreshControl,
   Platform
 } from "react-native";
+import AsyncStorage from "@react-native-community/async-storage";
 
 class MoviesDashboard extends Component {
   state = {
@@ -37,15 +40,102 @@ class MoviesDashboard extends Component {
     this.setState({
       loading: true
     });
-    navigator.geolocation.getCurrentPosition(
-      async position => {
+    BackgroundGeolocation.configure({
+      desiredAccuracy: BackgroundGeolocation.HIGH_ACCURACY,
+      stationaryRadius: 50,
+      distanceFilter: 50,
+      notificationTitle: "Background tracking",
+      notificationText: "enabled",
+      debug: true,
+      startOnBoot: false,
+      stopOnTerminate: true,
+      locationProvider: BackgroundGeolocation.ACTIVITY_PROVIDER,
+      interval: 10000,
+      fastestInterval: 5000,
+      activitiesInterval: 10000,
+      stopOnStillActivity: false,
+      url: "http://192.168.81.15:3000/location",
+      httpHeaders: {
+        "X-FOO": "bar"
+      },
+      // customize post properties
+      postTemplate: {
+        lat: "@latitude",
+        lon: "@longitude",
+        foo: "bar" // you can also add your own properties
+      }
+    });
+
+    BackgroundGeolocation.on("location", location => {
+      // handle your locations here
+      // to perform long running operation on iOS
+      // you need to create background task
+      BackgroundGeolocation.startTask(taskKey => {
+        // execute long running task
+        // eg. ajax post location
+        // IMPORTANT: task has to be ended by endTask
+        BackgroundGeolocation.endTask(taskKey);
+      });
+    });
+
+    BackgroundGeolocation.on("stationary", stationaryLocation => {
+      // handle stationary locations here
+      Actions.sendLocation(stationaryLocation);
+    });
+
+    BackgroundGeolocation.on("error", error => {
+      console.log("[ERROR] BackgroundGeolocation error:", error);
+    });
+
+    BackgroundGeolocation.on("start", () => {
+      console.log("[INFO] BackgroundGeolocation service has been started");
+    });
+
+    BackgroundGeolocation.on("stop", () => {
+      console.log("[INFO] BackgroundGeolocation service has been stopped");
+    });
+
+    BackgroundGeolocation.on("authorization", status => {
+      console.log(
+        "[INFO] BackgroundGeolocation authorization status: " + status
+      );
+      if (status !== BackgroundGeolocation.AUTHORIZED) {
+        // we need to set delay or otherwise alert may not be shown
+        setTimeout(
+          () =>
+            Alert.alert(
+              "App requires location tracking permission",
+              "Would you like to open app settings?",
+              [
+                {
+                  text: "Yes",
+                  onPress: () => BackgroundGeolocation.showAppSettings()
+                },
+                {
+                  text: "No",
+                  onPress: () => console.log("No Pressed"),
+                  style: "cancel"
+                }
+              ]
+            ),
+          1000
+        );
+      }
+    });
+
+    BackgroundGeolocation.on("background", () => {
+      console.log("[INFO] App is in background");
+    });
+
+    // BackgroundGeolocation.on("foreground", () => {
+    console.log("[INFO] App is in foreground");
+    BackgroundGeolocation.getCurrentLocation(
+      async location => {
         const apiURL = `https://maps.googleapis.com/maps/api/geocode/json?key=${
           config.GEOCODING_API_KEY
-        }&latlng=${position.coords.latitude},${
-          position.coords.longitude
-        }&sensor=true`;
+        }&latlng=${location.latitude},${location.longitude}&sensor=true`;
         const result = await (await fetch(apiURL)).json();
-        console.log("Reverse Geocoding", result);
+        // console.log("Reverse Geocoding", result);
         let cityName = result.results[0].address_components.find(
           item =>
             item.types[0] === "administrative_area_level_2" ||
@@ -56,141 +146,79 @@ class MoviesDashboard extends Component {
       error => this.setState({ error: error.message }),
       { enableHighAccuracy: false, timeout: 200000, maximumAge: 1000 }
     );
-    // BackgroundGeolocation.configure({
-    //   desiredAccuracy: BackgroundGeolocation.HIGH_ACCURACY,
-    //   stationaryRadius: 50,
-    //   distanceFilter: 50,
-    //   notificationTitle: "Background tracking",
-    //   notificationText: "enabled",
-    //   debug: true,
-    //   startOnBoot: false,
-    //   stopOnTerminate: true,
-    //   locationProvider: BackgroundGeolocation.ACTIVITY_PROVIDER,
-    //   interval: 10000,
-    //   fastestInterval: 5000,
-    //   activitiesInterval: 10000,
-    //   stopOnStillActivity: false,
-    //   url: "http://192.168.81.15:3000/location",
-    //   httpHeaders: {
-    //     "X-FOO": "bar"
-    //   },
-    //   // customize post properties
-    //   postTemplate: {
-    //     lat: "@latitude",
-    //     lon: "@longitude",
-    //     foo: "bar" // you can also add your own properties
-    //   }
     // });
 
-    // BackgroundGeolocation.on("location", location => {
-    //   // handle your locations here
-    //   // to perform long running operation on iOS
-    //   // you need to create background task
-    //   BackgroundGeolocation.startTask(taskKey => {
-    //     // execute long running task
-    //     // eg. ajax post location
-    //     // IMPORTANT: task has to be ended by endTask
-    //     BackgroundGeolocation.endTask(taskKey);
-    //   });
-    // });
+    BackgroundGeolocation.on("abort_requested", () => {
+      console.log("[INFO] Server responded with 285 Updates Not Required");
 
-    // BackgroundGeolocation.on("stationary", stationaryLocation => {
-    //   // handle stationary locations here
-    //   console.log("Location", stationaryLocation);
-    //   Actions.sendLocation(stationaryLocation);
-    // });
+      // Here we can decide whether we want stop the updates or not.
+      // If you've configured the server to return 285, then it means the server does not require further update.
+      // So the normal thing to do here would be to `BackgroundGeolocation.stop()`.
+      // But you might be counting on it to receive location updates in the UI, so you could just reconfigure and set `url` to null.
+    });
 
-    // BackgroundGeolocation.on("error", error => {
-    //   console.log("[ERROR] BackgroundGeolocation error:", error);
-    // });
+    BackgroundGeolocation.on("http_authorization", () => {
+      console.log("[INFO] App needs to authorize the http requests");
+    });
 
-    // BackgroundGeolocation.on("start", () => {
-    //   console.log("[INFO] BackgroundGeolocation service has been started");
-    // });
+    BackgroundGeolocation.checkStatus(status => {
+      console.log(
+        "[INFO] BackgroundGeolocation service is running",
+        status.isRunning
+      );
+      console.log(
+        "[INFO] BackgroundGeolocation services enabled",
+        status.locationServicesEnabled
+      );
+      console.log(
+        "[INFO] BackgroundGeolocation auth status: " + status.authorization
+      );
 
-    // BackgroundGeolocation.on("stop", () => {
-    //   console.log("[INFO] BackgroundGeolocation service has been stopped");
-    // });
-
-    // BackgroundGeolocation.on("authorization", status => {
-    //   console.log(
-    //     "[INFO] BackgroundGeolocation authorization status: " + status
-    //   );
-    //   if (status !== BackgroundGeolocation.AUTHORIZED) {
-    //     // we need to set delay or otherwise alert may not be shown
-    //     setTimeout(
-    //       () =>
-    //         Alert.alert(
-    //           "App requires location tracking permission",
-    //           "Would you like to open app settings?",
-    //           [
-    //             {
-    //               text: "Yes",
-    //               onPress: () => BackgroundGeolocation.showAppSettings()
-    //             },
-    //             {
-    //               text: "No",
-    //               onPress: () => console.log("No Pressed"),
-    //               style: "cancel"
-    //             }
-    //           ]
-    //         ),
-    //       1000
-    //     );
-    //   }
-    // });
-
-    // BackgroundGeolocation.on("background", () => {
-    //   console.log("[INFO] App is in background");
-    // });
-
-    // BackgroundGeolocation.on("foreground", () => {
-    //   console.log("[INFO] App is in foreground");
-    // });
-
-    // BackgroundGeolocation.on("abort_requested", () => {
-    //   console.log("[INFO] Server responded with 285 Updates Not Required");
-
-    //   // Here we can decide whether we want stop the updates or not.
-    //   // If you've configured the server to return 285, then it means the server does not require further update.
-    //   // So the normal thing to do here would be to `BackgroundGeolocation.stop()`.
-    //   // But you might be counting on it to receive location updates in the UI, so you could just reconfigure and set `url` to null.
-    // });
-
-    // BackgroundGeolocation.on("http_authorization", () => {
-    //   console.log("[INFO] App needs to authorize the http requests");
-    // });
-
-    // BackgroundGeolocation.checkStatus(status => {
-    //   console.log(
-    //     "[INFO] BackgroundGeolocation service is running",
-    //     status.isRunning
-    //   );
-    //   console.log(
-    //     "[INFO] BackgroundGeolocation services enabled",
-    //     status.locationServicesEnabled
-    //   );
-    //   console.log(
-    //     "[INFO] BackgroundGeolocation auth status: " + status.authorization
-    //   );
-
-    //   // you don't need to check status before start (this is just the example)
-    //   if (!status.isRunning) {
-    //     BackgroundGeolocation.start(); //triggers start on start event
-    //   }
-    // });
+      // you don't need to check status before start (this is just the example)
+      if (!status.isRunning) {
+        BackgroundGeolocation.start(); //triggers start on start event
+      }
+    });
 
     // you can also just start without checking for status
-    // BackgroundGeolocation.start();
+    BackgroundGeolocation.start();
   };
 
   getMoviesData = async cityName => {
+    var moviesFromLocalStorage = await AsyncStorage.getItem(
+      config.LOCAL_MOVIES_DATA
+    );
+    var comparitiveData = JSON.parse(moviesFromLocalStorage);
     var city = cityName ? cityName : this.state.cityName;
     const responseData = await this.props.actions.getMovies(city);
+    const moviesData = responseData.results.splice(0, 10);
+    moviesData.forEach(function(element) {
+      element.localFavourite = false;
+    });
+    for (var i = 0; i < moviesData.length; i++) {
+      moviesData[i].localFavourite =
+        comparitiveData !== null &&
+        comparitiveData.find(item => item.id === moviesData[i].id)
+          .localFavourite
+          ? comparitiveData.find(item => item.id === moviesData[i].id)
+              .localFavourite
+          : false;
+      moviesData[i].vote_count =
+        comparitiveData !== null &&
+        comparitiveData.find(item => item.id === moviesData[i].id).vote_count
+          ? comparitiveData.find(item => item.id === moviesData[i].id)
+              .vote_count
+          : moviesData[i].vote_count;
+    }
+    await AsyncStorage.setItem(
+      config.LOCAL_MOVIES_DATA,
+      JSON.stringify(moviesData)
+    );
     this.setState({
       cityName: city,
       loading: false,
-      moviesData: responseData.results.slice(0, 10)
+      moviesData:
+        moviesData !== null ? moviesData : JSON.parse(moviesFromLocalStorage)
     });
   };
 
@@ -292,12 +320,36 @@ class MoviesDashboard extends Component {
                       </Text>
                     </View>
 
-                    <View style={styles.votesSection}>
-                      {likeIcon}
+                    <TouchableOpacity
+                      activeOpacity={1}
+                      onPress={async () => {
+                        this.state.moviesData[index].localFavourite = !this
+                          .state.moviesData[index].localFavourite;
+                        this.state.moviesData[index].vote_count = this.state
+                          .moviesData[index].localFavourite
+                          ? item.vote_count + 1
+                          : item.vote_count - 1;
+                        await AsyncStorage.setItem(
+                          config.LOCAL_MOVIES_DATA,
+                          JSON.stringify(this.state.moviesData)
+                        );
+                        this.setState({
+                          moviesData: [...this.state.moviesData]
+                        });
+                      }}
+                      style={styles.votesSection}
+                    >
+                      {/* {likeIcon} */}
+                      <AntDesign
+                        name="like1"
+                        title="Like"
+                        size={20}
+                        color={item.localFavourite ? "#98FB98" : "#fff"}
+                      />
                       <Text style={genericStyles.regularText}>
                         {item.vote_count}
                       </Text>
-                    </View>
+                    </TouchableOpacity>
                   </View>
                 </View>
               </TouchableOpacity>

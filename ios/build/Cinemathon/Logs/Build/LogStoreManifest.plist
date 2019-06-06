@@ -6,7 +6,7 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>9B93366D-3FBC-4BCA-8E00-31948A427F43</key>
+		<key>8258C507-47F2-4064-AB6B-35A6636D1975</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>9B93366D-3FBC-4BCA-8E00-31948A427F43.xcactivitylog</string>
+			<string>8258C507-47F2-4064-AB6B-35A6636D1975.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -27,13 +27,13 @@
 			<key>signature</key>
 			<string>Building project Cinemathon with scheme Cinemathon and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>581143989.93258095</real>
+			<real>581439540.41024196</real>
 			<key>timeStoppedRecording</key>
-			<real>581144017.28975296</real>
+			<real>581439545.70529699</real>
 			<key>title</key>
 			<string>Building project Cinemathon with scheme Cinemathon and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>9B93366D-3FBC-4BCA-8E00-31948A427F43</string>
+			<string>8258C507-47F2-4064-AB6B-35A6636D1975</string>
 		</dict>
 	</dict>
 </dict>

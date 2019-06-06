@@ -4,43 +4,59 @@ ADDED from /Users/c-vishal.saxena/Projects/Cinemathon/android/app/src/main/Andro
 INJECTED from /Users/c-vishal.saxena/Projects/Cinemathon/android/app/src/main/AndroidManifest.xml:2:1-41:12
 INJECTED from /Users/c-vishal.saxena/Projects/Cinemathon/android/app/src/main/AndroidManifest.xml:2:1-41:12
 INJECTED from /Users/c-vishal.saxena/Projects/Cinemathon/android/app/src/main/AndroidManifest.xml:2:1-41:12
+MERGED from [:@react-native-community_async-storage] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:20:1-87:12
 MERGED from [:react-native-gesture-handler] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-vector-icons] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-splash-screen] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
-MERGED from [com.facebook.react:react-native:0.59.5] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/725ff481998d384010724c3d9114aff6/AndroidManifest.xml:2:1-13:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/084dd5e032f17bcfdb6ebfa397ca56c5/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a88cc739297dfeb5c26f34c4b567d857/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0ca3f6a4c300e9ada7099cebaafb58af/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ad7eae3b9c2dde814e02f1253f5fff72/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/60a3edb10f226ca70a5f3645076f96f7/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/9cafb030599461416c23e03cd48b6d9b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/27dae00ef510c002ab474324740dfa28/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ed57fbae1a1150973a9f19c69760f100/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e6c6749798eba46b0014aedc0f82dc6f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2036bc386386ff6462950171e23384ee/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3186c67f43b59f3f76ba194d97ce00cd/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/85c7e9bfbf8841b9e7b30589a76a1439/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/9dccfdf9863b7bc725408e4333b2cd98/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/e10fa4e10e4a36bf5f3c6bd54fe71850/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/391eb2341437fd3897e8d2ec80ba27f7/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/66c1e419ff202cf9a1bf8b41c0184512/AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a147910be92e074b1b44957f76d100ce/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1ea621f2ba9ad3b6c6afb241a5418378/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/17acaccb2c1ed97ec4925bec879c0ecd/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c9f5adcdc8681158ccf38138d27d34ed/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/bffd52d879f4cbccf61f07137aa3160f/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/92632806d9b0a6910559c1825d4a3476/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/3dba03dcd41a9f3b42a97889aa1f1638/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ca8eeb18ec22818fe02d4860d31bdcae/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e9657e5b57dd6a811da65e679619bb38/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/0e02f5597c9450ca7feea6bfbc308229/AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/bbadc948b2c0fd8f5ac005a5e7d1965d/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/097ed7758d056a830966f753e3cea238/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/507b397550a793c33cb77f22cf0e6344/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/1f441fb04ee04b90cf672e846a2ac519/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/f2eea358caad48544e04227ffc05b3a3/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a745cd3d19653e20d886ae587e8b2a36/AndroidManifest.xml:2:1-13:12
-MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/5994cd0b8728b5d2f2025e6899a0667b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/086c331b8cbc0c37e284667089a3c8ad/AndroidManifest.xml:2:1-13:12
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:20:1-85:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/93e496f4f0bd0608cbce913f1c64832c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/d3c7d3d85b9f94371ba62fe4a451195c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/24fa07bcf18716c298e8dbf21c3e7c23/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/92c810ede3bf080a59f6bac94e222250/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/c1c5765496fdb7205cb44542ddfa1b98/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.2.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/fad85db50e202e7c41558e5995b184bc/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/98e4fd33d355cb30cca13bcd94114135/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/31948dc49e1456aef23ef537b2b24428/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/da215413f815d8feed343389319c3873/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/34d4b60d12d88ec950168116d052fe4f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/3d2df1043ea5d8f4430b844ad134df42/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/81bf0b8600146c3cca8fc2f2863c1d30/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/41e4d4a39ad352d801d92de448b6f03c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/fbc990426a4aa41479d4388423ceaf0f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/e2351e1c4747e637ba1d97d4c1f81a9a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/44868cfe5eb92ed18e90b2eda0ac61cd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/dd1d3691df2655f3ce555b2a6c31be70/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/7997fd10582cf0dcfe7b5afa643ac694/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/1f92fde22f8d10afe69384da73337965/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/615c6203cceb474e4e64293525f10ac9/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/308449db6d91534fee9d21fcee69c426/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/7b3f072d9de5ff45a68e9e1137ea35da/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/f8dea1b72107b212fcd0fd11502dc5a3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/00b90c61804ab1d010593537a5560a50/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/4b3eb3e32e2e3a79733b835a74af8ded/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/1f4d632c2bc3e68f6e6e44daffbc70e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/346b65a9ac07c2b217549f116fc99930/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/7a5b1c3b59d44bc5e8e4d91af7036868/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/4ce37617e675b07ff6d60a96566cfad5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/be87fc35aba565b2b0d29a9f0c978b54/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/76ab9328874110220861de55ab31c5d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/4ba1a0a18d8873f79598c9cd89ff3736/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/7abe622dc64156147098d9092d9a2098/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/fe105227ac0605bd51364a25786654b9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/4b753c9e3b58e3842c0a06ad760a87a0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/e1df79187d131e3ef2e6445157438ddf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/a4c72a02637fa36a86b2d78e89bddf45/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/86e21eab0ba6e384ea4bb3091afcb787/AndroidManifest.xml:2:1-13:12
+MERGED from [com.intentfilter:android-permissions:0.1.7] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/52613f2737af2bfa28764c78240ddbe3/AndroidManifest.xml:2:1-18:12
+MERGED from [com.github.tony19:logback-android:1.1.1-9] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/7c974d11ed69ca1563e885bea1762099/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/edc0add1ca96c15976a66c4bd541ad99/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/e257ba0e619089a97eff2e9d42841bc4/AndroidManifest.xml:2:1-6:12
+MERGED from [com.github.tony19:apktool-lib:1.4.4-5] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/12b876ad5afc0e900cc568470dd7a6eb/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/a9a7e16abf5e5509e5a4a80f2d180d03/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/2f3861560b96172092e83075d9ddee0f/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/6d2ea258083ad8cb0bea0b5e4313d739/AndroidManifest.xml:2:1-6:12
 INJECTED from /Users/c-vishal.saxena/Projects/Cinemathon/android/app/src/main/AndroidManifest.xml:2:1-41:12
 INJECTED from /Users/c-vishal.saxena/Projects/Cinemathon/android/app/src/main/AndroidManifest.xml:2:1-41:12
 INJECTED from /Users/c-vishal.saxena/Projects/Cinemathon/android/app/src/main/AndroidManifest.xml:2:1-41:12
@@ -60,6 +76,10 @@ INJECTED from /Users/c-vishal.saxena/Projects/Cinemathon/android/app/src/main/An
 		ADDED from /Users/c-vishal.saxena/Projects/Cinemathon/android/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
 ADDED from /Users/c-vishal.saxena/Projects/Cinemathon/android/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:31:5-67
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:31:5-67
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:29:5-67
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:29:5-67
 	android:name
 		ADDED from /Users/c-vishal.saxena/Projects/Cinemathon/android/app/src/main/AndroidManifest.xml:5:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
@@ -68,26 +88,60 @@ ADDED from /Users/c-vishal.saxena/Projects/Cinemathon/android/app/src/main/Andro
 		ADDED from /Users/c-vishal.saxena/Projects/Cinemathon/android/app/src/main/AndroidManifest.xml:6:22-75
 uses-permission#android.permission.ACCESS_FINE_LOCATION
 ADDED from /Users/c-vishal.saxena/Projects/Cinemathon/android/app/src/main/AndroidManifest.xml:7:5-79
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:35:5-79
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:35:5-79
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:33:5-79
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:33:5-79
 	android:name
 		ADDED from /Users/c-vishal.saxena/Projects/Cinemathon/android/app/src/main/AndroidManifest.xml:7:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
 ADDED from /Users/c-vishal.saxena/Projects/Cinemathon/android/app/src/main/AndroidManifest.xml:8:5-81
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:34:5-81
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:34:5-81
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:32:5-81
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:32:5-81
 	android:name
 		ADDED from /Users/c-vishal.saxena/Projects/Cinemathon/android/app/src/main/AndroidManifest.xml:8:22-78
 application
 ADDED from /Users/c-vishal.saxena/Projects/Cinemathon/android/app/src/main/AndroidManifest.xml:10:5-39:19
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:43:5-85:19
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:43:5-85:19
 MERGED from [:react-native-splash-screen] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-12:19
 MERGED from [:react-native-splash-screen] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-12:19
-MERGED from [com.facebook.react:react-native:0.59.5] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/725ff481998d384010724c3d9114aff6/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.react:react-native:0.59.5] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/725ff481998d384010724c3d9114aff6/AndroidManifest.xml:11:5-20
-MERGED from [com.android.support:support-compat:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/391eb2341437fd3897e8d2ec80ba27f7/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/391eb2341437fd3897e8d2ec80ba27f7/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/66c1e419ff202cf9a1bf8b41c0184512/AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/66c1e419ff202cf9a1bf8b41c0184512/AndroidManifest.xml:22:5-23:19
-MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a745cd3d19653e20d886ae587e8b2a36/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a745cd3d19653e20d886ae587e8b2a36/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/086c331b8cbc0c37e284667089a3c8ad/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/086c331b8cbc0c37e284667089a3c8ad/AndroidManifest.xml:11:5-20
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:41:5-83:19
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:41:5-83:19
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/d3c7d3d85b9f94371ba62fe4a451195c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/d3c7d3d85b9f94371ba62fe4a451195c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/24fa07bcf18716c298e8dbf21c3e7c23/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/24fa07bcf18716c298e8dbf21c3e7c23/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/92c810ede3bf080a59f6bac94e222250/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/92c810ede3bf080a59f6bac94e222250/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/c1c5765496fdb7205cb44542ddfa1b98/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/c1c5765496fdb7205cb44542ddfa1b98/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.2.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/fad85db50e202e7c41558e5995b184bc/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/fad85db50e202e7c41558e5995b184bc/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/615c6203cceb474e4e64293525f10ac9/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/615c6203cceb474e4e64293525f10ac9/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/308449db6d91534fee9d21fcee69c426/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/308449db6d91534fee9d21fcee69c426/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/7b3f072d9de5ff45a68e9e1137ea35da/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/7b3f072d9de5ff45a68e9e1137ea35da/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/86e21eab0ba6e384ea4bb3091afcb787/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/86e21eab0ba6e384ea4bb3091afcb787/AndroidManifest.xml:11:5-20
+MERGED from [com.intentfilter:android-permissions:0.1.7] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/52613f2737af2bfa28764c78240ddbe3/AndroidManifest.xml:11:5-16:19
+MERGED from [com.intentfilter:android-permissions:0.1.7] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/52613f2737af2bfa28764c78240ddbe3/AndroidManifest.xml:11:5-16:19
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/e257ba0e619089a97eff2e9d42841bc4/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/e257ba0e619089a97eff2e9d42841bc4/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/a9a7e16abf5e5509e5a4a80f2d180d03/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/a9a7e16abf5e5509e5a4a80f2d180d03/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/2f3861560b96172092e83075d9ddee0f/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/2f3861560b96172092e83075d9ddee0f/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/6d2ea258083ad8cb0bea0b5e4313d739/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/6d2ea258083ad8cb0bea0b5e4313d739/AndroidManifest.xml:5:5-20
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/391eb2341437fd3897e8d2ec80ba27f7/AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/308449db6d91534fee9d21fcee69c426/AndroidManifest.xml:22:18-91
 	android:label
 		ADDED from /Users/c-vishal.saxena/Projects/Cinemathon/android/app/src/main/AndroidManifest.xml:12:7-39
 	android:roundIcon
@@ -144,82 +198,116 @@ uses-sdk
 INJECTED from /Users/c-vishal.saxena/Projects/Cinemathon/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/c-vishal.saxena/Projects/Cinemathon/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/c-vishal.saxena/Projects/Cinemathon/android/app/src/main/AndroidManifest.xml
+MERGED from [:@react-native-community_async-storage] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:25:5-27:41
+MERGED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:25:5-27:41
 MERGED from [:react-native-gesture-handler] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-gesture-handler] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-splash-screen] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-splash-screen] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.59.5] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/725ff481998d384010724c3d9114aff6/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.59.5] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/725ff481998d384010724c3d9114aff6/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/084dd5e032f17bcfdb6ebfa397ca56c5/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/084dd5e032f17bcfdb6ebfa397ca56c5/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a88cc739297dfeb5c26f34c4b567d857/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a88cc739297dfeb5c26f34c4b567d857/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0ca3f6a4c300e9ada7099cebaafb58af/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0ca3f6a4c300e9ada7099cebaafb58af/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ad7eae3b9c2dde814e02f1253f5fff72/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ad7eae3b9c2dde814e02f1253f5fff72/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/60a3edb10f226ca70a5f3645076f96f7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/60a3edb10f226ca70a5f3645076f96f7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/9cafb030599461416c23e03cd48b6d9b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/9cafb030599461416c23e03cd48b6d9b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/27dae00ef510c002ab474324740dfa28/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/27dae00ef510c002ab474324740dfa28/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ed57fbae1a1150973a9f19c69760f100/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ed57fbae1a1150973a9f19c69760f100/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e6c6749798eba46b0014aedc0f82dc6f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e6c6749798eba46b0014aedc0f82dc6f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2036bc386386ff6462950171e23384ee/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2036bc386386ff6462950171e23384ee/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3186c67f43b59f3f76ba194d97ce00cd/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3186c67f43b59f3f76ba194d97ce00cd/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/85c7e9bfbf8841b9e7b30589a76a1439/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/85c7e9bfbf8841b9e7b30589a76a1439/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/9dccfdf9863b7bc725408e4333b2cd98/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/9dccfdf9863b7bc725408e4333b2cd98/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/e10fa4e10e4a36bf5f3c6bd54fe71850/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/e10fa4e10e4a36bf5f3c6bd54fe71850/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/391eb2341437fd3897e8d2ec80ba27f7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/391eb2341437fd3897e8d2ec80ba27f7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/66c1e419ff202cf9a1bf8b41c0184512/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/66c1e419ff202cf9a1bf8b41c0184512/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a147910be92e074b1b44957f76d100ce/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a147910be92e074b1b44957f76d100ce/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1ea621f2ba9ad3b6c6afb241a5418378/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1ea621f2ba9ad3b6c6afb241a5418378/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/17acaccb2c1ed97ec4925bec879c0ecd/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/17acaccb2c1ed97ec4925bec879c0ecd/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c9f5adcdc8681158ccf38138d27d34ed/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/c9f5adcdc8681158ccf38138d27d34ed/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/bffd52d879f4cbccf61f07137aa3160f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/bffd52d879f4cbccf61f07137aa3160f/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/92632806d9b0a6910559c1825d4a3476/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/92632806d9b0a6910559c1825d4a3476/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/3dba03dcd41a9f3b42a97889aa1f1638/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/3dba03dcd41a9f3b42a97889aa1f1638/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ca8eeb18ec22818fe02d4860d31bdcae/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ca8eeb18ec22818fe02d4860d31bdcae/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e9657e5b57dd6a811da65e679619bb38/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e9657e5b57dd6a811da65e679619bb38/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/0e02f5597c9450ca7feea6bfbc308229/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/0e02f5597c9450ca7feea6bfbc308229/AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/bbadc948b2c0fd8f5ac005a5e7d1965d/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/bbadc948b2c0fd8f5ac005a5e7d1965d/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/097ed7758d056a830966f753e3cea238/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/097ed7758d056a830966f753e3cea238/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/507b397550a793c33cb77f22cf0e6344/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/507b397550a793c33cb77f22cf0e6344/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/1f441fb04ee04b90cf672e846a2ac519/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/1f441fb04ee04b90cf672e846a2ac519/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/f2eea358caad48544e04227ffc05b3a3/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/f2eea358caad48544e04227ffc05b3a3/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a745cd3d19653e20d886ae587e8b2a36/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/a745cd3d19653e20d886ae587e8b2a36/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/5994cd0b8728b5d2f2025e6899a0667b/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/5994cd0b8728b5d2f2025e6899a0667b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/086c331b8cbc0c37e284667089a3c8ad/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/086c331b8cbc0c37e284667089a3c8ad/AndroidManifest.xml:7:5-9:41
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:25:5-44
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:25:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/93e496f4f0bd0608cbce913f1c64832c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/93e496f4f0bd0608cbce913f1c64832c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/d3c7d3d85b9f94371ba62fe4a451195c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/d3c7d3d85b9f94371ba62fe4a451195c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/24fa07bcf18716c298e8dbf21c3e7c23/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/24fa07bcf18716c298e8dbf21c3e7c23/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/92c810ede3bf080a59f6bac94e222250/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/92c810ede3bf080a59f6bac94e222250/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/c1c5765496fdb7205cb44542ddfa1b98/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/c1c5765496fdb7205cb44542ddfa1b98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/fad85db50e202e7c41558e5995b184bc/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/fad85db50e202e7c41558e5995b184bc/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/98e4fd33d355cb30cca13bcd94114135/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/98e4fd33d355cb30cca13bcd94114135/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/31948dc49e1456aef23ef537b2b24428/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/31948dc49e1456aef23ef537b2b24428/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/da215413f815d8feed343389319c3873/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/da215413f815d8feed343389319c3873/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/34d4b60d12d88ec950168116d052fe4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/34d4b60d12d88ec950168116d052fe4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/3d2df1043ea5d8f4430b844ad134df42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/3d2df1043ea5d8f4430b844ad134df42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/81bf0b8600146c3cca8fc2f2863c1d30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/81bf0b8600146c3cca8fc2f2863c1d30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/41e4d4a39ad352d801d92de448b6f03c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/41e4d4a39ad352d801d92de448b6f03c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/fbc990426a4aa41479d4388423ceaf0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/fbc990426a4aa41479d4388423ceaf0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/e2351e1c4747e637ba1d97d4c1f81a9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/e2351e1c4747e637ba1d97d4c1f81a9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/44868cfe5eb92ed18e90b2eda0ac61cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/44868cfe5eb92ed18e90b2eda0ac61cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/dd1d3691df2655f3ce555b2a6c31be70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/dd1d3691df2655f3ce555b2a6c31be70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/7997fd10582cf0dcfe7b5afa643ac694/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/7997fd10582cf0dcfe7b5afa643ac694/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/1f92fde22f8d10afe69384da73337965/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/1f92fde22f8d10afe69384da73337965/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/615c6203cceb474e4e64293525f10ac9/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/615c6203cceb474e4e64293525f10ac9/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/308449db6d91534fee9d21fcee69c426/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/308449db6d91534fee9d21fcee69c426/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/7b3f072d9de5ff45a68e9e1137ea35da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/7b3f072d9de5ff45a68e9e1137ea35da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/f8dea1b72107b212fcd0fd11502dc5a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/f8dea1b72107b212fcd0fd11502dc5a3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/00b90c61804ab1d010593537a5560a50/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/00b90c61804ab1d010593537a5560a50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/4b3eb3e32e2e3a79733b835a74af8ded/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/4b3eb3e32e2e3a79733b835a74af8ded/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/1f4d632c2bc3e68f6e6e44daffbc70e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/1f4d632c2bc3e68f6e6e44daffbc70e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/346b65a9ac07c2b217549f116fc99930/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/346b65a9ac07c2b217549f116fc99930/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/7a5b1c3b59d44bc5e8e4d91af7036868/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/7a5b1c3b59d44bc5e8e4d91af7036868/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/4ce37617e675b07ff6d60a96566cfad5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/4ce37617e675b07ff6d60a96566cfad5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/be87fc35aba565b2b0d29a9f0c978b54/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/be87fc35aba565b2b0d29a9f0c978b54/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/76ab9328874110220861de55ab31c5d2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/76ab9328874110220861de55ab31c5d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/4ba1a0a18d8873f79598c9cd89ff3736/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/4ba1a0a18d8873f79598c9cd89ff3736/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/7abe622dc64156147098d9092d9a2098/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/7abe622dc64156147098d9092d9a2098/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/fe105227ac0605bd51364a25786654b9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/fe105227ac0605bd51364a25786654b9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/4b753c9e3b58e3842c0a06ad760a87a0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/4b753c9e3b58e3842c0a06ad760a87a0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/e1df79187d131e3ef2e6445157438ddf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/e1df79187d131e3ef2e6445157438ddf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/a4c72a02637fa36a86b2d78e89bddf45/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/a4c72a02637fa36a86b2d78e89bddf45/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/86e21eab0ba6e384ea4bb3091afcb787/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/86e21eab0ba6e384ea4bb3091afcb787/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intentfilter:android-permissions:0.1.7] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/52613f2737af2bfa28764c78240ddbe3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intentfilter:android-permissions:0.1.7] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/52613f2737af2bfa28764c78240ddbe3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tony19:logback-android:1.1.1-9] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/7c974d11ed69ca1563e885bea1762099/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tony19:logback-android:1.1.1-9] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/7c974d11ed69ca1563e885bea1762099/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/edc0add1ca96c15976a66c4bd541ad99/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/edc0add1ca96c15976a66c4bd541ad99/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/e257ba0e619089a97eff2e9d42841bc4/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/e257ba0e619089a97eff2e9d42841bc4/AndroidManifest.xml:4:5-43
+MERGED from [com.github.tony19:apktool-lib:1.4.4-5] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/12b876ad5afc0e900cc568470dd7a6eb/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tony19:apktool-lib:1.4.4-5] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/12b876ad5afc0e900cc568470dd7a6eb/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/a9a7e16abf5e5509e5a4a80f2d180d03/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/a9a7e16abf5e5509e5a4a80f2d180d03/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/2f3861560b96172092e83075d9ddee0f/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/2f3861560b96172092e83075d9ddee0f/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/6d2ea258083ad8cb0bea0b5e4313d739/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/6d2ea258083ad8cb0bea0b5e4313d739/AndroidManifest.xml:4:5-43
 INJECTED from /Users/c-vishal.saxena/Projects/Cinemathon/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/c-vishal.saxena/Projects/Cinemathon/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/fad85db50e202e7c41558e5995b184bc/AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
 		INJECTED from /Users/c-vishal.saxena/Projects/Cinemathon/android/app/src/main/AndroidManifest.xml
 		ADDED from /Users/c-vishal.saxena/Projects/Cinemathon/android/app/src/main/AndroidManifest.xml
@@ -228,3 +316,167 @@ INJECTED from /Users/c-vishal.saxena/Projects/Cinemathon/android/app/src/main/An
 		INJECTED from /Users/c-vishal.saxena/Projects/Cinemathon/android/app/src/main/AndroidManifest.xml
 		ADDED from /Users/c-vishal.saxena/Projects/Cinemathon/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/c-vishal.saxena/Projects/Cinemathon/android/app/src/main/AndroidManifest.xml
+uses-permission#android.hardware.location
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:30:5-65
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:28:5-65
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:28:5-65
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:30:22-62
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:32:5-68
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:30:5-68
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:30:5-68
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:32:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:33:5-79
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:31:5-79
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:31:5-79
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:33:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:36:5-89
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:34:5-89
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:34:5-89
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:36:22-86
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:37:5-94
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:35:5-94
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:35:5-94
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:37:22-91
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:38:5-81
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:36:5-81
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:36:5-81
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:38:22-78
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:39:5-77
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:37:5-77
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:37:5-77
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:39:22-74
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:40:5-78
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:38:5-78
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:38:5-78
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:40:22-75
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:41:5-80
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:39:5-80
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:39:5-80
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:41:22-77
+service#com.marianhello.bgloc.sync.SyncService
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:44:9-55:19
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:42:9-53:19
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:42:9-53:19
+	android:process
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:47:13-36
+	android:exported
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:46:13-36
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:45:13-66
+intent-filter#action:name:android.content.SyncAdapter
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:48:13-50:29
+action#android.content.SyncAdapter
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:49:17-70
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:49:25-67
+meta-data#android.content.SyncAdapter
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:52:13-54:55
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:50:13-52:55
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:50:13-52:55
+	android:resource
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:54:17-52
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:53:17-59
+service#com.marianhello.bgloc.sync.AuthenticatorService
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:56:9-64:19
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:54:9-62:19
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:54:9-62:19
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:56:18-80
+intent-filter#action:name:android.accounts.AccountAuthenticator
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:57:13-59:29
+action#android.accounts.AccountAuthenticator
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:58:17-80
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:58:25-77
+meta-data#android.accounts.AccountAuthenticator
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:61:13-63:57
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:59:13-61:57
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:59:13-61:57
+	android:resource
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:63:17-54
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:62:17-69
+provider#com.marianhello.bgloc.data.provider.LocationContentProvider
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:66:9-70:39
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:64:9-68:39
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:64:9-68:39
+	android:authorities
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:68:13-75
+	android:syncable
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:69:13-37
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:67:13-87
+service#com.marianhello.bgloc.LocationServiceImpl
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:72:9-75:40
+	android:enabled
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:74:13-35
+	android:exported
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:75:13-37
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:73:13-69
+receiver#com.marianhello.bgloc.BootCompletedReceiver
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:77:9-84:20
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:75:9-82:20
+MERGED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:75:9-82:20
+	android:enabled
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:79:13-35
+	android:exported
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:80:13-36
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:78:13-71
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:81:13-83:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:82:17-79
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/library_manifest/release/AndroidManifest.xml:82:25-76
+service#com.marianhello.bgloc.service.LocationServiceImpl
+ADDED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:70:9-73:40
+	android:enabled
+		ADDED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:72:13-35
+	android:exported
+		ADDED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:73:13-37
+	android:name
+		ADDED from [:@mauron85_react-native-background-geolocation-common] /Users/c-vishal.saxena/Projects/Cinemathon/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/library_manifest/release/AndroidManifest.xml:71:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/24fa07bcf18716c298e8dbf21c3e7c23/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/24fa07bcf18716c298e8dbf21c3e7c23/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/24fa07bcf18716c298e8dbf21c3e7c23/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/24fa07bcf18716c298e8dbf21c3e7c23/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/c1c5765496fdb7205cb44542ddfa1b98/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/c1c5765496fdb7205cb44542ddfa1b98/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/c1c5765496fdb7205cb44542ddfa1b98/AndroidManifest.xml:24:13-58
+activity#com.intentfilter.androidpermissions.PermissionsActivity
+ADDED from [com.intentfilter:android-permissions:0.1.7] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/52613f2737af2bfa28764c78240ddbe3/AndroidManifest.xml:12:9-15:59
+	android:excludeFromRecents
+		ADDED from [com.intentfilter:android-permissions:0.1.7] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/52613f2737af2bfa28764c78240ddbe3/AndroidManifest.xml:14:13-46
+	android:theme
+		ADDED from [com.intentfilter:android-permissions:0.1.7] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/52613f2737af2bfa28764c78240ddbe3/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from [com.intentfilter:android-permissions:0.1.7] /Users/c-vishal.saxena/.gradle/caches/transforms-2/files-2.1/52613f2737af2bfa28764c78240ddbe3/AndroidManifest.xml:13:13-83

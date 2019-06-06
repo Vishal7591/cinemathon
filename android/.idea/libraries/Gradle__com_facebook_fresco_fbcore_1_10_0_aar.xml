@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: com.facebook.fresco:fbcore:1.10.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/5994cd0b8728b5d2f2025e6899a0667b/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/edc0add1ca96c15976a66c4bd541ad99/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/5994cd0b8728b5d2f2025e6899a0667b/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/5994cd0b8728b5d2f2025e6899a0667b/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/edc0add1ca96c15976a66c4bd541ad99/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/edc0add1ca96c15976a66c4bd541ad99/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

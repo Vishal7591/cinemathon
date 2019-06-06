@@ -4,7 +4,7 @@ export const API_URL = "https://api.themoviedb.org/3/movie/";
 export const IMAGE_BASE_URI = "http://image.tmdb.org/t/p/w342/";
 
 export const GEOCODING_API_KEY = "AIzaSyCE7X2ZUtT5RFPjJnMSEJ5dFE8rkZqX6nE";
-
+export const LOCAL_MOVIES_DATA = "LOCAL_MOVIES_DATA";
 export const genres = [
   {
     id: 28,

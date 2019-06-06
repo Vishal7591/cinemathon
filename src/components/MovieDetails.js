@@ -97,12 +97,7 @@ class MovieDetails extends Component {
             </Text>
           </View>
           <View
-            style={{
-              flex: 1,
-              justifyContent: "center",
-              padding: 10,
-              flexDirection: "column"
-            }}
+            style={styles.ratingsSection}
           >
             <Text style={[genericStyles.boldText, { fontSize: 20 }]}>
               Ratings
@@ -118,7 +113,7 @@ class MovieDetails extends Component {
                 {" " + this.state.movieData.vote_average} - IMDB
               </Text>
               <View style={styles.votesSection}>
-                <AntDesign name="like1" title="Like" size={24} color="#fff" />
+                <AntDesign name="like1" title="Like" size={24} color={this.state.movieData.localFavourite ? "#98FB98":"#fff"} />
                 <Text
                   style={[
                     genericStyles.regularText,
@@ -179,6 +174,12 @@ const styles = StyleSheet.create({
     height: 240,
     width: 180,
     resizeMode: "contain"
+  },
+  ratingsSection:{
+    flex: 1,
+    justifyContent: "center",
+    padding: 10,
+    flexDirection: "column"
   },
   votesSection: {
     flex: 1,
